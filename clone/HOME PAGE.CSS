@@ -1,0 +1,166 @@
+.navBAR1{
+    background-color: #e82929;
+    min-height: 50px;
+    color: white;
+    padding: 20px;
+    white-space: nowrap;
+}
+.email{
+    border-right: 2px solid white;
+    min-height: 50px;
+    min-width: 250px;
+}
+/* .main{
+    min-width: 50px;
+} */
+/* .navBAR>*{
+    background-color: brown;
+} */
+.text{
+    width: 100vw;
+}
+/* .section1{
+    border-right: 2px solid white;
+} */
+.navBAR2{
+    min-height: 10px;
+}
+ol li{
+    list-style: none;
+}
+body{
+    overflow-x: hidden;
+}
+.ABOUTpage{
+    background-color: #E3ECEF;
+    margin-top:100px;
+    padding: 50px;
+}
+.more-about-us{
+    border: 2px solid white;
+    margin-top: 20px;
+}
+.buttontop{
+    border:2px solid white;
+    border-radius: 20px;
+}
+.headertext{
+    margin-top:-100px;
+}
+.text2{
+    margin-top: 50px;
+}
+.img2{
+    width: 350px;
+    height: 290px;
+}
+.imgcont1{
+    margin-top: 100px;
+}
+.imgcont2{
+    margin-top: 60px;
+}
+.text3 {
+    width: 350px;
+    background-color: #f3fafc;
+    margin-left: -1px;
+    height: 150px;
+    padding: 30px;
+}
+.text3 h2{
+    font-size: 25px;
+    font-weight: 600;
+}
+.img3{
+    width: 360px;
+}
+.text4{
+    width: 360px;
+    background-color: #f3fafc;
+    padding: 30px;
+    height: 150px;
+    font-size: 10px;
+}
+.text4 h2{
+    font-size: 25px;
+    font-weight: 600;
+}
+.text5{
+    background-color: #f3fafc;
+    padding: 30px;
+    height: 150px;
+    font-size: 10px;
+}
+.text5 h2{
+    font-size: 25px;
+    font-weight: 600;
+}
+.img4{
+    width: 350px;
+}
+.Testimonials{
+    min-height: 400px;
+}
+.Partners{
+    height: 250px;
+}
+.scrollIMG{
+    background-image: url(/img/best-reason-to-use-cbd-oil.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 70px;
+    margin-top: 100px;
+}
+.comment p{
+    width: 340px;
+    min-height: 150px;
+    background-color: black;
+}
+.profile{
+    white-space: nowrap;
+}
+/* .Partners-img{
+    width: 50px;
+} */
+body{
+    scroll-behavior: smooth;
+}
+.footer{
+    background-color: black;
+    min-height: 300px;
+}
+.list{
+    list-style: none;
+    display: block;
+    width: 300px;
+    
+}
+.list li{
+    margin: 30px;
+    font-size: 15px;
+}
+.list li a{
+    text-decoration: none;
+    color: white;
+}
+.list li a i{
+    color: #e82929;
+}
+.list li a:hover{
+    color: #e82929;
+}
+.footercont{
+ /* background-color: aliceblue; */
+ 
+}
+.copyright{
+    background-color: black;
+    height: 100px;
+    border-top: 2px solid white;
+}
+.links ul li a:hover{
+    color: #f3fafc;
+}
+body{
+    z-index: -1;
+}
